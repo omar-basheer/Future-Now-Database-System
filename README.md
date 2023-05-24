@@ -1,4 +1,4 @@
-# future-now_database_system
+# Future-Now Database System
 Database System for a hypothetical asset management company.
 
 
